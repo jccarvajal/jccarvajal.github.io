@@ -4,7 +4,7 @@ layout: default
 
 # Juan Carlos Carvajal
 
-Probando 1 2 3
+Ingeniero CIvil Electrónico
 
-## Oh
-> Oh Oh
+## Probando
+> 1, 2, 3
