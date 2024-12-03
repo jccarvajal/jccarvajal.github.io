@@ -6,7 +6,7 @@ layout: default
 
 Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
-## Probando
+## Experiencia
 > 1, 2, 3
 
 (página en construcción)
