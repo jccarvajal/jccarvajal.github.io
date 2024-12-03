@@ -4,7 +4,7 @@ layout: default
 
 # Juan Carlos Carvajal
 
-Ingeniero CIvil Electrónico
+Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ## Probando
 > 1, 2, 3
