@@ -10,9 +10,7 @@ Ubicación: Valparaíso, Chile
 
 Correo: jccarvajal@gmail.com
 
-Bluesky: @jccarvajal
+Bluesky: [@jccarvajal](https://bsky.app/profile/jccarvajal.com)
 
-## Experiencia
-> 1, 2, 3
+LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal/)
 
-(página en construcción)
