@@ -14,7 +14,7 @@ Libro: [Inteligencia Artificial Aplicada: Guías para Decidir, Diseñar y Gobern
 
 LinkedIn: [jccarvajal](https:// www.linkedin.com/in/jccarvajal)
 
-GitHub: [jccarvajal](https://github.com/ jccarvajal)
+GitHub: [jccarvajal](https://github.com/jccarvajal)
 
 Correo: [jccarvajal@gmail.com](mailto: jccarvajal@gmail.com)
 
