@@ -18,6 +18,6 @@ GitHub: [jccarvajal](https://github.com/jccarvajal)
 
 Correo: [jccarvajal@gmail.com](mailto: jccarvajal@gmail.com)
 
-Bluesky: [@jccarvajal](https://bsky.app/profile/jccarvajal.bsky.social)
+Bluesky: [@jccarvajal](https://bsky.app/profile/jccarvajal.com)
 
 Ubicación: Valparaíso, Chile
