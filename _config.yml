@@ -4,3 +4,4 @@ description: Avatar de Juan Carlos Carvajal
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+show_github_profile_link: false
