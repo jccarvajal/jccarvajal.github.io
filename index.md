@@ -6,7 +6,7 @@ layout: default
 
 Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
-*Especialista en la intersección de inteligencia artificial, telecomunicaciones y gobernanza de sistemas.*
+*Arquitecto impulsor de sistemas y estratega de gobernanza.*
 
 ---
 
