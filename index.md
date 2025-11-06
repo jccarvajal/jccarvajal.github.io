@@ -10,7 +10,7 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
-Libro: [Inteligencia Artificial Aplicada: Guías para Decidir, Diseñar y Gobernar](http://www.jccarvajal.com/IA-Aplicada/)
+Libro: [Inteligencia Artificial Aplicada: Guías para Decidir, Diseñar y Gobernar](http://iaa.jccarvajal.com)
 
 LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal)
 
