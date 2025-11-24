@@ -10,7 +10,7 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
-Libro: [Arquitectura de Inteligencia Artificial: Guías para Decidir, Diseñar y Gobernar](http://ia.jccarvajal.com)
+Libro: [Arquitectura de IA: Guías para Decidir, Diseñar y Gobernar](http://ia.jccarvajal.com)
 
 LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal)
 
