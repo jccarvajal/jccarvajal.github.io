@@ -12,7 +12,7 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 Libro: [Arquitectura de IA: Guías para Decidir, Diseñar y Gobernar](https://ia.jccarvajal.com)
 
-Libro: [Ciberseguridad Orientada a Resultados: Arquitectura de Resiliencia y Gobernanza para la Tríada Estratégica](https://ciber.jccarvajal.com)
+Libro: [Ciberseguridad Orientada a Resultados: Arquitectura de Resiliencia y Gobernanza](https://ciber.jccarvajal.com)
 
 LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal)
 
