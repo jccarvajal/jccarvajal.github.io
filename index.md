@@ -10,9 +10,13 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
-Libro: [Arquitectura de Inteligencia Artificial: Guías para Decidir, Diseñar y Gobernar](https://ia.jccarvajal.com)
+Serie Libros GRC (Gobernanza, Riesgo y Cumplimiento):
 
-Libro: [Ciberseguridad Orientada a Resultados: Arquitectura, Riesgo y Supervivencia Institucional](https://ciber.jccarvajal.com)
+* [Arquitectura de Inteligencia Artificial: Guías para Decidir, Diseñar y Gobernar](https://ia.jccarvajal.com)
+
+* [Ciberseguridad Orientada a Resultados: Arquitectura, Riesgo y Supervivencia Institucional](https://ciber.jccarvajal.com)
+
+---
 
 LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal)
 
