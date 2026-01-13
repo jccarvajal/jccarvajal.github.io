@@ -6,7 +6,7 @@ layout: default
 
 Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
-*Arquitecto impulsor de sistemas y estratega de gobernanza.*
+*Arquitecto de Sistemas Estratégicos y de Decisión | Gobernanza de IA, Ciberseguridad y Riesgo | Autor*
 
 ---
 
