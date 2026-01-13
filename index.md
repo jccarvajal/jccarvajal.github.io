@@ -6,7 +6,7 @@ layout: default
 
 Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
-*Arquitecto de Sistemas Estratégicos y de Decisión | Gobernanza de IA, Ciberseguridad y Riesgo | Autor*
+*Arquitecto de Sistemas Estratégicos y de Decisión / Gobernanza de IA, Ciberseguridad y Riesgo / Autor*
 
 ---
 
