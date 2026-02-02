@@ -10,7 +10,7 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
-Serie Libros GRC (Gobernanza, Riesgo y Cumplimiento):
+Libros publicados (Arquitectura, Riesgo y Decisión):
 
 * [Arquitectura de Inteligencia Artificial: Guías para Decidir, Diseñar y Gobernar](https://ia.jccarvajal.com)
 
