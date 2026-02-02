@@ -16,6 +16,8 @@ Serie Libros GRC (Gobernanza, Riesgo y Cumplimiento):
 
 * [Ciberseguridad Orientada a Resultados: Arquitectura, Riesgo y Supervivencia Institucional](https://ciber.jccarvajal.com)
 
+* [Liderazgo Antifrágil: Arquitectura de Decisión, Riesgo y Responsabilidad](https://liderazgo.jccarvajal.com)
+
 ---
 
 LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal)
