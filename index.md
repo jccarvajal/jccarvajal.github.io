@@ -12,13 +12,13 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 Libros publicados (Arquitectura, Riesgo y Decisión):
 
-* [Liderazgo Antifrágil: Arquitectura de Decisión, Riesgo y Responsabilidad](https://liderazgo.jccarvajal.com)
-
-* [Ciberseguridad Orientada a Resultados: Arquitectura, Riesgo y Supervivencia Institucional](https://ciber.jccarvajal.com)
+* [Arquitectura de Inteligencia Artificial: Guías para Decidir, Diseñar y Gobernar](https://ia.jccarvajal.com)
 
 * [Gobernanza de Datos Defensiva: Ingeniería de Datos, IA y Defensa Legal en la Era de la Responsabilidad Proactiva](https://gobernanza.jccarvajal.com)
 
-* [Arquitectura de Inteligencia Artificial: Guías para Decidir, Diseñar y Gobernar](https://ia.jccarvajal.com)
+* [Ciberseguridad Orientada a Resultados: Arquitectura, Riesgo y Supervivencia Institucional](https://ciber.jccarvajal.com)
+
+* [Liderazgo Antifrágil: Arquitectura de Decisión, Riesgo y Responsabilidad](https://liderazgo.jccarvajal.com)
 
 ---
 
