@@ -18,6 +18,8 @@ Libros publicados (Arquitectura, Riesgo y Decisión):
 
 * [Liderazgo Antifrágil: Arquitectura de Decisión, Riesgo y Responsabilidad](https://liderazgo.jccarvajal.com)
 
+* [Gobernanza de Datos Defensiva: Ingeniería de Datos, IA y Defensa Legal en la Era de la Responsabilidad Proactiva](https://gobernanza.jccarvajal.com)
+
 ---
 
 LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal)
