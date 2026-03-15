@@ -20,6 +20,8 @@ Libros publicados (Arquitectura, Riesgo y Decisión):
 
 * [Liderazgo Antifrágil: Arquitectura de Decisión, Riesgo y Responsabilidad](https://liderazgo.jccarvajal.com)
 
+* [Doctrina de la Evidencia: Auditoría Forense y Responsabilidad Operativa en la Era Digital](https://evidencia.jccarvajal.com)
+
 ---
 
 LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal)
