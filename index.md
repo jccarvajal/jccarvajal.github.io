@@ -22,6 +22,8 @@ Libros publicados (Arquitectura, Riesgo y Decisión):
 
 * [Doctrina de la Evidencia: Auditoría Forense y Responsabilidad Operativa en la Era Digital](https://evidencia.jccarvajal.com)
 
+* [Diseño del Riesgo: Arquitectura del Riesgo y Física del Colapso Organizacional](https://riesgo.jccarvajal.com)
+
 ---
 
 LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal)
