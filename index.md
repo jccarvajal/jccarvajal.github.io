@@ -10,6 +10,10 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
+## Serie: Arquitectura, Riesgo y Decisión
+
+---
+
 #### Marco Doctrinal y Fundamentos de la Serie
 
 Marco conceptual que define la arquitectura común de toda la serie.
