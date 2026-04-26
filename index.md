@@ -10,6 +10,14 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
+### Fundamentos y Doctrina
+
+* [Marco Doctrinal de la Serie: Arquitectura, Riesgo y Decisión](/marco-teorico)
+  
+* [Anexo Estructural: La Física de la Fricción y el Sabotaje Institucional](/anexo-estructural)
+
+---
+
 Libros publicados (Arquitectura, Riesgo y Decisión):
 
 * [Arquitectura de Inteligencia Artificial: Guías para Decidir, Diseñar y Gobernar](https://ia.jccarvajal.com)
