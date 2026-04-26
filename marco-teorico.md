@@ -54,13 +54,13 @@ La operabilidad de esta arquitectura descansa sobre los siguientes postulados in
 
 Bajo este marco epistemológico, la intervención en sistemas complejos se despliega a través de siete dominios modulares. Cada uno representa un vector de análisis y diseño estructural, sin admitir concesiones a la retórica de la gestión tradicional:
 
-* **Inteligencia Artificial:** Diseño, despliegue y gobierno de decisiones automatizadas bajo incertidumbre operativa y fricción algorítmica, con potencial de amplificación de error a escala.
-* **Liderazgo:** Distribución de decisión bajo restricción y consecuencia táctica, calibración del riesgo y arquitectura operativa bajo presión.
-* **Gobernanza de Datos:** Control estructural, soberanía y defensa legal, asumiendo que **la gobernanza es arquitectura ejecutable**, no un repositorio documental inerte.
-* **Ciberseguridad:** Supervivencia sistémica, protección de infraestructura crítica y contención del impacto en entornos de amenaza asimétrica.
-* **Evidencia:** Auditoría forense y validación empírica sistemática para desmantelar la ficción narrativa frente a la cruda materialidad de la operación, eliminando la validez de narrativas no verificables.
-* **Riesgo:** La física del colapso organizacional, donde se asume el riesgo no como una probabilidad exógena, sino como una propiedad emergente del diseño interno del sistema.
-* **Cultura:** El output conductual observable, la demostración empírica de que **la cultura es un resultado, no una causa**, materializando el rastro que dejan las restricciones de la tríada operativa; por tanto, no admite intervención directa sin rediseñar incentivos, información y consecuencia.
+* **[Inteligencia Artificial](https://ia.jccarvajal.com):** Diseño, despliegue y gobierno de decisiones automatizadas bajo incertidumbre operativa y fricción algorítmica, con potencial de amplificación de error a escala.
+* **[Liderazgo](https://liderazgo.jccarvajal.com):** Distribución de decisión bajo restricción y consecuencia táctica, calibración del riesgo y arquitectura operativa bajo presión.
+* **[Gobernanza de Datos](https://gobernanza.jccarvajal.com):** Control estructural, soberanía y defensa legal, asumiendo que **la gobernanza es arquitectura ejecutable**, no un repositorio documental inerte.
+* **[Ciberseguridad](https://ciber.jccarvajal.com):** Supervivencia sistémica, protección de infraestructura crítica y contención del impacto en entornos de amenaza asimétrica.
+* **[Evidencia](https://evidencia.jccarvajal.com):** Auditoría forense y validación empírica sistemática para desmantelar la ficción narrativa frente a la cruda materialidad de la operación, eliminando la validez de narrativas no verificables.
+* **[Riesgo](https://riesgo.jccarvajal.com):** La física del colapso organizacional, donde se asume el riesgo no como una probabilidad exógena, sino como una propiedad emergente del diseño interno del sistema.
+* **[Cultura](https://cultura.jccarvajal.com):** El output conductual observable, la demostración empírica de que **la cultura es un resultado, no una causa**, materializando el rastro que dejan las restricciones de la tríada operativa; por tanto, no admite intervención directa sin rediseñar incentivos, información y consecuencia.
 
 ---
 
