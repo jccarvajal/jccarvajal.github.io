@@ -24,6 +24,8 @@ Libros publicados (Arquitectura, Riesgo y Decisión):
 
 * [Diseño del Riesgo: Arquitectura del Riesgo y Física del Colapso Organizacional](https://riesgo.jccarvajal.com)
 
+* [Cultura Operativa: Arquitectura, Incentivos y Comportamiento Bajo Incertidumbre](https://cultura.jccarvajal.com)
+
 ---
 
 LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal)
