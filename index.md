@@ -10,7 +10,7 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
-#### Fundamentos y Doctrina
+#### Fundamentos y Doctrina de la Arquitectura Organizacional
 
 * [Marco Doctrinal de la Serie: Arquitectura, Riesgo y Decisión](/marco-teorico)
   
