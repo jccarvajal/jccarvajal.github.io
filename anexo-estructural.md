@@ -3,7 +3,7 @@ layout: default
 title: Anexo Estructural
 ---
 
-# ANEXO ESTRUCTURAL: LA FÍSICA DE LA FRICCIÓN Y EL SABOTAJE INSTITUCIONAL
+## ANEXO ESTRUCTURAL: LA FÍSICA DE LA FRICCIÓN Y EL SABOTAJE INSTITUCIONAL
 
 ### I. El Mito de la Transición Pacífica
 
