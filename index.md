@@ -10,7 +10,7 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
-### Serie: Arquitectura, Riesgo y Decisión
+### Arquitectura, Riesgo y Decisión
 
 ---
 
@@ -26,8 +26,7 @@ Marco conceptual que define la arquitectura común de toda la serie.
 
 #### Libros de la Serie: Arquitectura, Riesgo y Decisión
 
-Siete dominios modulares que operan bajo un mismo marco estructural. 
-Cada dominio es un punto de entrada independiente.
+Siete dominios modulares que operan bajo un mismo marco estructural. Cada dominio es un punto de entrada independiente.
 
 * [Arquitectura de Inteligencia Artificial: Guías para Decidir, Diseñar y Gobernar](https://ia.jccarvajal.com)
 
