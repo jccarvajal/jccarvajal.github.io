@@ -36,6 +36,8 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
+### Contacto
+
 LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal)
 
 GitHub: [jccarvajal](https://github.com/jccarvajal)
