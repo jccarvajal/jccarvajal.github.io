@@ -6,11 +6,13 @@ layout: default
 
 Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
-*Arquitecto de Sistemas Estratégicos y de Decisión / Gobernanza de IA, Ciberseguridad y Riesgo / Autor*
+*Arquitectura de Sistemas de Decisión, Riesgo y Gobernanza Ejecutable / IA, Ciberseguridad y Datos / Autor*
 
 ---
 
-#### Fundamentos y Doctrina de la Arquitectura Organizacional
+#### Marco Doctrinal y Fundamentos de la Serie
+
+Marco conceptual que define la arquitectura común de toda la serie.
 
 * [Marco Doctrinal de la Serie: Arquitectura, Riesgo y Decisión](/marco-teorico)
   
@@ -20,19 +22,24 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 #### Libros de la Serie: Arquitectura, Riesgo y Decisión
 
+Siete dominios modulares que operan bajo un mismo marco estructural. 
+Cada dominio es un punto de entrada independiente.
+
 * [Arquitectura de Inteligencia Artificial: Guías para Decidir, Diseñar y Gobernar](https://ia.jccarvajal.com)
+
+* [Liderazgo Antifrágil: Arquitectura de Decisión, Riesgo y Responsabilidad](https://liderazgo.jccarvajal.com)
 
 * [Gobernanza de Datos Defensiva: Ingeniería de Datos, IA y Defensa Legal en la Era de la Responsabilidad Proactiva](https://gobernanza.jccarvajal.com)
 
 * [Ciberseguridad Orientada a Resultados: Arquitectura, Riesgo y Supervivencia Institucional](https://ciber.jccarvajal.com)
-
-* [Liderazgo Antifrágil: Arquitectura de Decisión, Riesgo y Responsabilidad](https://liderazgo.jccarvajal.com)
 
 * [Doctrina de la Evidencia: Auditoría Forense y Responsabilidad Operativa en la Era Digital](https://evidencia.jccarvajal.com)
 
 * [Diseño del Riesgo: Arquitectura del Riesgo y Física del Colapso Organizacional](https://riesgo.jccarvajal.com)
 
 * [Cultura Operativa: Arquitectura, Incentivos y Comportamiento Bajo Incertidumbre](https://cultura.jccarvajal.com)
+
+Mejorar la organización exige rediseñar el sistema.
 
 ---
 
