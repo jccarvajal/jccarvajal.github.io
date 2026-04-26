@@ -18,7 +18,7 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
-Libros publicados (Arquitectura, Riesgo y Decisión):
+### Libros de la Serie: Arquitectura, Riesgo y Decisión:
 
 * [Arquitectura de Inteligencia Artificial: Guías para Decidir, Diseñar y Gobernar](https://ia.jccarvajal.com)
 
