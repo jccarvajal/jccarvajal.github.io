@@ -10,7 +10,7 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
-### Fundamentos y Doctrina
+#### Fundamentos y Doctrina
 
 * [Marco Doctrinal de la Serie: Arquitectura, Riesgo y Decisión](/marco-teorico)
   
@@ -18,7 +18,7 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
-### Libros de la Serie: Arquitectura, Riesgo y Decisión:
+#### Libros de la Serie: Arquitectura, Riesgo y Decisión
 
 * [Arquitectura de Inteligencia Artificial: Guías para Decidir, Diseñar y Gobernar](https://ia.jccarvajal.com)
 
@@ -36,7 +36,7 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
-### Contacto
+#### Contacto
 
 LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal)
 
