@@ -3,7 +3,7 @@ layout: default
 title: Marco Doctrinal
 ---
 
-# ARQUITECTURA, RIESGO Y DECISIÓN: MARCO DOCTRINAL DE LA SERIE
+## ARQUITECTURA, RIESGO Y DECISIÓN: MARCO DOCTRINAL DE LA SERIE
 
 ### I. El Error Categorial Fundacional
 
