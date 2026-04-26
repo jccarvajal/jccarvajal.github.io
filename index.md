@@ -10,7 +10,7 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
-## Serie: Arquitectura, Riesgo y Decisión
+### Serie: Arquitectura, Riesgo y Decisión
 
 ---
 
@@ -47,7 +47,7 @@ Mejorar la organización exige rediseñar el sistema.
 
 ---
 
-#### Contacto
+### Contacto
 
 LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal)
 
