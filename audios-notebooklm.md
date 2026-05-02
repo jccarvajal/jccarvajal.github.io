@@ -15,6 +15,7 @@ La serie de obras propone un cambio de paradigma en la gestión corporativa desd
   <source src="assets/audio/sistema-riesgo-gobernanza.m4a" type="audio/mp4">
   Tu navegador no soporta audio.
 </audio>
+<br>
 
 ---
 
@@ -28,6 +29,7 @@ Marco conceptual que define la arquitectura común de toda la serie.
   <source src="assets/audio/marco-teorico.m4a" type="audio/mp4">
   Tu navegador no soporta audio.
 </audio>
+<br>
 
 ---
 
@@ -43,7 +45,6 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/arquitectura-ia.m4a" type="audio/mp4">
   Tu navegador no soporta audio.
 </audio>
-
 <br>
 
 #### Liderazgo Antifrágil
@@ -54,6 +55,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/liderazgo-antifragil.m4a" type="audio/mp4">
   Tu navegador no soporta audio.
 </audio>
+<br>
 
 #### Gobernanza de Datos Defensiva
 
@@ -63,6 +65,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/gobernanza-datos.m4a" type="audio/mp4">
   Tu navegador no soporta audio.
 </audio>
+<br>
 
 #### Ciberseguridad Orientada a Resultados
 
@@ -72,6 +75,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/ciberseguridad-grc.m4a" type="audio/mp4">
   Tu navegador no soporta audio.
 </audio>
+<br>
 
 #### Doctrina de la Evidencia
 
@@ -81,6 +85,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/doctrina-evidencia.m4a" type="audio/mp4">
   Tu navegador no soporta audio.
 </audio>
+<br>
 
 #### Diseño del Riesgo
 
@@ -90,6 +95,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/diseno-riesgo.m4a" type="audio/mp4">
   Tu navegador no soporta audio.
 </audio>
+<br>
 
 #### Cultura Operativa
 
