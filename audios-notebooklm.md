@@ -44,7 +44,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   Tu navegador no soporta audio.
 </audio>
 
-
+<br>
 
 #### Liderazgo Antifrágil
 
