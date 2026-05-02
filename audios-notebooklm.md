@@ -16,6 +16,7 @@ La serie de obras que propone un cambio de paradigma en la gestión corporativa 
   Tu navegador no soporta audio.
 </audio>
 
+
 ### II. Marco Doctrinal y Fundamentos de la Serie
 
 Marco conceptual que define la arquitectura común de toda la serie.
@@ -26,6 +27,7 @@ Marco conceptual que define la arquitectura común de toda la serie.
   <source src="assets/audio/marco-teorico.m4a" type="audio/mp4">
   Tu navegador no soporta audio.
 </audio>
+
 
 ### III. Libros de la Serie: Arquitectura, Riesgo y Decisión
 
