@@ -3,7 +3,7 @@ layout: default
 title: Audios NotebookLM
 ---
 
-## 🎧 AUDIO-PODCASTS CREADOS POR NOTEBOOKLLM
+## 🎧 AUDIO-PODCASTS CREADOS POR NOTEBOOKLM
 
 ### I. Serie "Arquitectura, Riesgo y Decisión"
 
