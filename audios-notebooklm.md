@@ -7,7 +7,7 @@ title: Audios NotebookLM
 
 ### I. Serie "Arquitectura, Riesgo y Decisión"
 
-La serie de obras que propone un cambio de paradigma en la gestión corporativa desde un enfoque técnico y forense. 
+La serie de obras propone un cambio de paradigma en la gestión corporativa desde un enfoque técnico y forense. 
 
 ⏱️ **Duración:** 23 minutos  
 
@@ -16,6 +16,7 @@ La serie de obras que propone un cambio de paradigma en la gestión corporativa 
   Tu navegador no soporta audio.
 </audio>
 
+---
 
 ### II. Marco Doctrinal y Fundamentos de la Serie
 
@@ -28,6 +29,7 @@ Marco conceptual que define la arquitectura común de toda la serie.
   Tu navegador no soporta audio.
 </audio>
 
+---
 
 ### III. Libros de la Serie: Arquitectura, Riesgo y Decisión
 
@@ -41,6 +43,8 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/arquitectura-ia.m4a" type="audio/mp4">
   Tu navegador no soporta audio.
 </audio>
+
+
 
 #### Liderazgo Antifrágil
 
