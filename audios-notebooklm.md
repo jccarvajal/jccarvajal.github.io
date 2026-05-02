@@ -37,6 +37,8 @@ Marco conceptual que define la arquitectura común de toda la serie.
 
 Siete dominios modulares que operan bajo un mismo marco estructural. Cada dominio es un punto de entrada independiente.
 
+<br>
+
 #### Arquitectura de Inteligencia Artificial
 
 ⏱️ **Duración:** 20 minutos  
