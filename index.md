@@ -22,6 +22,8 @@ Marco conceptual que define la arquitectura común de toda la serie.
   
 * [Anexo Estructural: La Física de la Fricción y el Sabotaje Institucional](/anexo-estructural)
 
+* [Version Audio-Podcast de NotebookLM](/audios-notebooklm)
+
 ---
 
 #### Libros de la Serie: Arquitectura, Riesgo y Decisión
