@@ -38,10 +38,8 @@ Esta sección contiene las síntesis ejecutivas y análisis forenses de la serie
 ### III. Expedientes Modulares: Los 7 Dominios
 Siete dominios modulares que operan bajo un mismo marco estructural. Cada dominio es un punto de entrada independiente.
 
-<br>
-
 #### Arquitectura de Inteligencia Artificial
-> **El motor cognitivo bajo incertidumbre y fricción algorítmica.**
+> El motor cognitivo bajo incertidumbre y fricción algorítmica.
 
 ⏱️ **Duración:** 20 minutos  
 <audio controls>
@@ -51,7 +49,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 <br>
 
 #### Liderazgo Antifrágil
-> **La distribución de la decisión bajo restricción y asimetría de consecuencia.**
+> La distribución de la decisión bajo restricción y asimetría de consecuencia.
 
 ⏱️ **Duración:** 25 minutos  
 <audio controls>
@@ -61,7 +59,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 <br>
 
 #### Gobernanza de Datos Defensiva
-> **El control estructural: la gobernanza es arquitectura ejecutable, no papel.**
+> El control estructural: la gobernanza es arquitectura ejecutable, no papel.
 
 ⏱️ **Duración:** 27 minutos  
 <audio controls>
@@ -71,7 +69,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 <br>
 
 #### Ciberseguridad Orientada a Resultados
-> **La supervivencia sistémica del negocio ante la amenaza asimétrica.**
+> La supervivencia sistémica del negocio ante la amenaza asimétrica.
 
 ⏱️ **Duración:** 21 minutos  
 <audio controls>
@@ -81,7 +79,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 <br>
 
 #### Doctrina de la Evidencia
-> **La auditoría forense inmutable que reemplaza la negligencia de la fe administrativa.**
+> La auditoría forense inmutable que reemplaza la negligencia de la fe administrativa.
 
 ⏱️ **Duración:** 28 minutos  
 <audio controls>
@@ -91,7 +89,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 <br>
 
 #### Diseño del Riesgo
-> **La termodinámica y la física del colapso organizacional.**
+> La termodinámica y la física del colapso organizacional.
 
 ⏱️ **Duración:** 22 minutos  
 <audio controls>
@@ -101,7 +99,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 <br>
 
 #### Cultura Operativa
-> **La propiedad emergente y el derivado conductual observable: resultado, no causa.**
+> La propiedad emergente y el derivado conductual observable: resultado, no causa.
 
 ⏱️ **Duración:** 24 minutos  
 <audio controls>
