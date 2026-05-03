@@ -37,6 +37,7 @@ Esta sección contiene las síntesis ejecutivas y análisis forenses de la serie
 
 ### III. Expedientes Modulares: Los 7 Dominios
 Siete dominios modulares que operan bajo un mismo marco estructural. Cada dominio es un punto de entrada independiente.
+<br>
 
 #### Arquitectura de Inteligencia Artificial
 > El motor cognitivo bajo incertidumbre y fricción algorítmica.
