@@ -44,7 +44,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 > El motor cognitivo bajo incertidumbre y fricción algorítmica.
 
 ⏱️ **Duración:** 20 minutos  
-<audio controls>
+<audio controls preload="none">
   <source src="assets/audio/arquitectura-ia.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
@@ -55,7 +55,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 > La distribución de la decisión bajo restricción y asimetría de consecuencia.
 
 ⏱️ **Duración:** 25 minutos  
-<audio controls>
+<audio controls preload="none">
   <source src="assets/audio/liderazgo-antifragil.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
@@ -65,7 +65,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 > El control estructural: la gobernanza es arquitectura ejecutable, no papel.
 
 ⏱️ **Duración:** 27 minutos  
-<audio controls>
+<audio controls preload="none">
   <source src="assets/audio/gobernanza-datos.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
@@ -75,7 +75,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 > La supervivencia sistémica del negocio ante la amenaza asimétrica.
 
 ⏱️ **Duración:** 21 minutos  
-<audio controls>
+<audio controls preload="none">
   <source src="assets/audio/ciberseguridad-grc.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
@@ -85,7 +85,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 > La auditoría forense inmutable que reemplaza la negligencia de la fe administrativa.
 
 ⏱️ **Duración:** 28 minutos  
-<audio controls>
+<audio controls preload="none">
   <source src="assets/audio/doctrina-evidencia.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
@@ -95,7 +95,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 > La termodinámica y la física del colapso organizacional.
 
 ⏱️ **Duración:** 22 minutos  
-<audio controls>
+<audio controls preload="none">
   <source src="assets/audio/diseno-riesgo.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
@@ -105,7 +105,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 > La propiedad emergente y el derivado conductual observable: resultado, no causa.
 
 ⏱️ **Duración:** 24 minutos  
-<audio controls>
+<audio controls preload="none">
   <source src="assets/audio/cultura-operativa.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
