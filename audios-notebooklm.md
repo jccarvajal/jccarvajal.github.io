@@ -14,7 +14,7 @@ Esta sección contiene las síntesis ejecutivas y análisis forenses de la serie
 
 ⏱️ **Duración:** 23 minutos  
 
-<audio controls>
+<audio controls preload="none">
   <source src="assets/audio/sistema-riesgo-gobernanza.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
@@ -27,7 +27,7 @@ Esta sección contiene las síntesis ejecutivas y análisis forenses de la serie
 
 ⏱️ **Duración:** 20 minutos  
 
-<audio controls>
+<audio controls preload="none">
   <source src="assets/audio/marco-teorico.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
