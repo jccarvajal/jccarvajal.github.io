@@ -48,7 +48,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/arquitectura-ia.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
-[Leer libro →](https://ia.jccarvajal.com)
+
 <br>
 
 #### Liderazgo Antifrágil
