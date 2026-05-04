@@ -99,6 +99,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/diseno-riesgo.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
+<a href="https://riesgo.jccarvajal.com">→ Leer libro</a>
 <br>
 
 #### Cultura Operativa
