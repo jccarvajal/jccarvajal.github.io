@@ -48,6 +48,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/arquitectura-ia.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
+<a href="https://ia.jccarvajal.com">→ Leer libro</a>
 
 <br>
 
@@ -59,6 +60,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/liderazgo-antifragil.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
+<a href="https://liderazgo.jccarvajal.com">→ Leer libro</a>
 <br>
 
 #### Gobernanza de Datos Defensiva
@@ -69,6 +71,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/gobernanza-datos.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
+<a href="https://gobernanza.jccarvajal.com">→ Leer libro</a>
 <br>
 
 #### Ciberseguridad Orientada a Resultados
@@ -79,6 +82,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/ciberseguridad-grc.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
+<a href="https://ciber.jccarvajal.com">→ Leer libro</a>
 <br>
 
 #### Doctrina de la Evidencia
@@ -89,6 +93,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/doctrina-evidencia.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
+<a href="https://evidencia.jccarvajal.com">→ Leer libro</a>
 <br>
 
 #### Diseño del Riesgo
@@ -110,3 +115,4 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   <source src="assets/audio/cultura-operativa.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
+<a href="https://cultura.jccarvajal.com">→ Leer libro</a>
