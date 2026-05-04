@@ -49,7 +49,6 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
   Tu navegador no soporta el elemento de audio.
 </audio>
 <a href="https://ia.jccarvajal.com">→ Leer libro</a>
-
 <br>
 
 #### Liderazgo Antifrágil
