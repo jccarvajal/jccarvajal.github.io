@@ -40,13 +40,14 @@ Cuando la operación fracasa, la auditoría estructural no busca culpables moral
 La operabilidad de esta arquitectura descansa sobre los siguientes postulados innegociables:
 
 * El sistema no falla; ejecuta su diseño.
-* El comportamiento es inducido por arquitectura, no por intención.
-* La cultura es un resultado observable, no una variable de entrada.
-* La gobernanza es arquitectura ejecutable, no declaración normativa.
-* La responsabilidad sin consecuencia es estructuralmente irrelevante.
-* Todo desacople entre decisión y consecuencia genera riesgo sistémico.
-* La optimización local destruye la viabilidad global en sistemas acoplados.
-* Ninguna intervención que no modifique la tríada altera el comportamiento del sistema.
+* La arquitectura determina el comportamiento.
+* La cultura es un subproducto sistémico observable.
+* La gobernanza requiere implementarse como arquitectura ejecutable.
+* La responsabilidad desvinculada de la consecuencia carece de peso estructural.
+* El desacople entre decisión y consecuencia inyecta riesgo sistémico.
+* La optimización local degrada la viabilidad global en sistemas acoplados.
+* La alteración del comportamiento exige intervenir la tríada.
+* La antifragilidad asimila la anomalía como vector de rediseño.
 
 ---
 
