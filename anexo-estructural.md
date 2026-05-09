@@ -30,7 +30,9 @@ Al desplegar una arquitectura restrictiva y forzar la trazabilidad total —sea 
 La fricción política nunca se presentará como una rebelión abierta contra el rigor técnico. Se disfrazará bajo narrativas de eficiencia y lealtad corporativa. El directorio y la alta administración deben anticipar y neutralizar de forma mecánica los tres vectores clásicos del sabotaje institucional:
 
 1. **La Urgencia Armada:** La táctica de forzar excepciones bajo la narrativa de una crisis inminente. El operador argumentará que cumplir con el control estructural (sea levantar evidencia técnica, ejecutar una auditoría de código o respetar la pausa analítica) hará perder un negocio o retrasará un entregable crítico. *Contra-arquitectura:* La urgencia no exime la evidencia; solo acelera su recolección. Quien invoca la urgencia asume por escrito el riesgo total del desvío.
+
 2. **El Secuestro de la Confianza (Amiguismo):** La sustitución del dato duro por el peso de la relación personal. "Conozco al proveedor", "siempre lo hemos hecho así", "confía en mi experiencia". La arquitectura colapsa cuando el directorio acepta la reputación de un individuo como sustituto de la validación empírica. *Contra-arquitectura:* En entornos complejos, la confianza es irrelevante sin telemetría. La evidencia técnica es la única moneda de cambio autorizada.
+
 3. **El Cumplimiento Estético:** La forma más sofisticada de resistencia. El sistema adopta el vocabulario de la nueva gobernanza y llena los formularios requeridos, pero sin alterar el flujo de decisión real. Es la creación de indicadores de vanidad para simular control mientras el riesgo sistémico permanece intacto en las sombras. *Contra-arquitectura:* Toda métrica que no mida el acoplamiento directo entre una decisión y su consecuencia física o financiera debe ser destruida.
 
 ---
