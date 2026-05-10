@@ -10,13 +10,15 @@ Ingeniero Civil Electrónico, MSc. Telecomunicaciones
 
 ---
 
-### Arquitectura, Riesgo y Decisión
+### Serie: Arquitectura, Riesgo y Decisión
+
+Arquitectura, Riesgo y Decisión es un marco interdisciplinario para comprender cómo las organizaciones modernas diseñan mecanismos de control, evidencia, gobernanza y adaptación frente a entornos de incertidumbre tecnológica.
 
 ---
 
 #### Marco Doctrinal y Fundamentos de la Serie
 
-Marco conceptual que define la arquitectura común de toda la serie.
+Marco conceptual y estructural que define la arquitectura común, los principios doctrinales y las relaciones entre los distintos volúmenes de la serie.
 
 * [Marco Doctrinal de la Serie: Arquitectura, Riesgo y Decisión](/marco-teorico)
   
@@ -24,9 +26,11 @@ Marco conceptual que define la arquitectura común de toda la serie.
 
 * [🎧 Archivo Doctrinal: Podcasts generados por IA](/audios-notebooklm)
 
+---
+
 #### Libros de la Serie: Arquitectura, Riesgo y Decisión
 
-Siete dominios modulares que operan bajo un mismo marco estructural. Cada dominio es un punto de entrada independiente.
+Siete dominios modulares que operan bajo un mismo marco estructural. Cada volumen puede leerse de forma independiente, pero todos comparten principios doctrinales, modelos de decisión y una arquitectura conceptual común.
 
 * [Arquitectura de Inteligencia Artificial: Guías para Decidir, Diseñar y Gobernar](https://ia.jccarvajal.com)
 
@@ -42,7 +46,9 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 
 * [Cultura Operativa: Arquitectura, Incentivos y Comportamiento Bajo Incertidumbre](https://cultura.jccarvajal.com)
 
-Mejorar la organización exige rediseñar el sistema.
+---
+
+Mejorar una organización exige rediseñar el sistema que condiciona sus decisiones.
 
 ---
 

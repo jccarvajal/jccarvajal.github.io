@@ -96,7 +96,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 <br>
 
 #### Diseño del Riesgo
-> La termodinámica y la física del colapso organizacional.
+> La arquitectura del riesgo y la física del colapso organizacional.
 
 ⏱️ **Duración:** 22 minutos  
 <audio controls preload="none">
@@ -107,7 +107,7 @@ Siete dominios modulares que operan bajo un mismo marco estructural. Cada domini
 <br>
 
 #### Cultura Operativa
-> La propiedad emergente y el derivado conductual observable: resultado, no causa.
+> El derivado conductual observable del diseño: resultado, no causa.
 
 ⏱️ **Duración:** 24 minutos  
 <audio controls preload="none">
