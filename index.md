@@ -52,7 +52,7 @@ Mejorar una organización exige rediseñar el sistema que condiciona sus decisio
 
 ---
 
-Metodología
+### Metodología
 
 * [Del escritor al orquestador: Cómo utilizo la IA para crear libros](/escritor-orquestador)
 
