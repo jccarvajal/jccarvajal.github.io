@@ -73,7 +73,9 @@ Esas decisiones siguen siendo humanas.
 
 Utilizo varios modelos. Cada uno cumple una función distinta dentro de un proceso continuo, no como herramientas intercambiables.
 
-Gemini actúa como redactor principal: expande conceptos, desarrolla capítulos, construye versiones extensas de ideas ya estructuradas. ChatGPT cumple el rol de sparring intelectual: tensiona argumentos, busca contradicciones, explora alternativas. Claude actúa como revisor de consistencia: detecta incoherencias, cambios terminológicos no intencionales y problemas estructurales entre capítulos.
+Un modelo actúa como redactor principal: expande conceptos, desarrolla capítulos, construye versiones extensas de ideas ya estructuradas. 
+Otro cumple el rol de sparring intelectual: tensiona argumentos, busca contradicciones, explora alternativas. 
+Un tercero actúa como revisor de consistencia: detecta incoherencias, cambios terminológicos no intencionales y problemas estructurales entre capítulos.
 
 Lo importante no es qué hace cada modelo en abstracto.
 
