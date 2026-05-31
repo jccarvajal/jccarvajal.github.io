@@ -54,7 +54,7 @@ Mejorar una organización exige rediseñar el sistema que condiciona sus decisio
 
 ### Metodología
 
-Descripción de mi proceso de autoría: desde la arquitectura conceptual hasta la revisión crítica asistida por IA y la gestión de versiones de los manuscritos.
+Cómo desarrollo mis libros mediante arquitectura conceptual, crítica adversarial asistida por IA y control de versiones de los manuscritos.
 
 * [Del Escritor al Orquestador: Cómo Utilizo la IA para Crear Libros](/escritor-orquestador)
 
