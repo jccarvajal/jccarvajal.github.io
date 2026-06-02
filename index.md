@@ -24,6 +24,8 @@ Marco conceptual y estructural que define la arquitectura común, los principios
   
 * [Anexo Estructural: La Física de la Fricción y el Sabotaje Institucional](/anexo-estructural)
 
+* [Agencia Organizacional y Dependencia](/agencia-organizacional)
+
 * [🎧 Archivo Doctrinal: Podcasts generados por IA](/audios-notebooklm)
 
 ---
