@@ -7,7 +7,7 @@ title: Agencia Organizacional
 
 ### Hipótesis
 
-Al revisar los distintos volúmenes de la serie y sus anexos, surge la posibilidad de que diversos dominios tratados habitualmente como disciplinas independientes —gobernanza, gestión del riesgo, evidencia digital, continuidad operacional, ciberseguridad, criptografía e inteligencia artificial— sean manifestaciones de un mismo problema arquitectónico.
+Al revisar los distintos volúmenes de la serie y sus anexos, surge la posibilidad de que diversos dominios tratados habitualmente como disciplinas independientes  (gobernanza, gestión del riesgo, evidencia digital, continuidad operacional, ciberseguridad, criptografía e inteligencia artificial) sean manifestaciones de un mismo problema arquitectónico.
 
 Dicho problema no consiste en la protección de activos específicos ni en la implementación de controles particulares.
 
