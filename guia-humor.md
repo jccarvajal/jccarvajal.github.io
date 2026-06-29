@@ -66,10 +66,9 @@ La ausencia de lenguaje corporal te obliga a ser preciso, pero te da una ventaja
 
 **Principios Clave:**
 
-* **Construcción de Marca Personal:** Un humor inteligente y consistente te hace memorable y atractivo. Es la diferencia entre ser una conexión más en LinkedIn y ser alguien con quien la gente quiere interactuar.
+* **Presencia Digital Consistente:** El humor inteligente y bien calibrado te hace memorable. No se trata de publicar chistes, sino de tener una voz reconocible: alguien con criterio, que no se toma a sí mismo demasiado en serio y que sabe cuándo aligerar una conversación.
 * **Brevedad e Impacto:** El humor digital debe ser un golpe rápido y efectivo. Los usuarios hacen scroll rápidamente; no tienes tiempo para un monólogo. Piensa en titulares, no en párrafos.
 * **Claridad de Tono:** El sarcasmo y la ironía son peligrosos por escrito. Las herramientas visuales como emojis, GIFs y memes no son un capricho, son clarificadores de tono esenciales.
-
 
 **Técnicas Adaptadas al Medio:**
 
