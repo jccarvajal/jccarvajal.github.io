@@ -62,6 +62,14 @@ Cómo desarrollo mis libros mediante arquitectura conceptual, crítica adversari
 
 ---
 
+### Artículos
+
+Ensayos, guías y notas sobre comunicación, metodología, inteligencia artificial y otros temas relacionados con el diseño de sistemas de decisión.
+
+* [Guía de Humor Profesional y Personal](/guia-humor)
+
+---
+
 ### Contacto
 
 LinkedIn: [jccarvajal](https://www.linkedin.com/in/jccarvajal)
