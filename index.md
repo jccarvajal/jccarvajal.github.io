@@ -64,7 +64,7 @@ Cómo desarrollo mis libros mediante arquitectura conceptual, crítica adversari
 
 ### Artículos
 
-Ensayos, guías y notas sobre comunicación, metodología, inteligencia artificial y otros temas relacionados con el diseño de sistemas de decisión.
+Ensayos, guías y notas sobre comunicación, metodología, inteligencia artificial y otros temas relacionados con el diseño de sistemas de decisión, las organizaciones y el comportamiento humano.
 
 * [Guía de Humor Profesional y Personal](/guia-humor)
 
