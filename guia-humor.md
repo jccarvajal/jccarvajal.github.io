@@ -169,6 +169,7 @@ En los siguientes contextos, lo más prudente suele ser no hacer humor o limitar
 **La señal de alerta:**
 
 Si tu primer impulso es aligerar una situación porque el silencio te incomoda, detente un momento y pregúntate:
+
 > *¿Estoy intentando ayudar a la otra persona o aliviar mi propia incomodidad?*
-> 
+
 Muchas veces el humor intenta aliviar nuestra propia incomodidad, no la de la otra persona. Aprender a distinguir ambas cosas es una de las habilidades más importantes de la inteligencia social.
