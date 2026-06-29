@@ -151,3 +151,24 @@ Para desarrollar intuición cómica, necesitas entrenar el oído consumiendo bue
 * **Humor Seco (Deadpan) y Absurdo:** *Felipe Avello*. Es un experto en decir las cosas más descolocantes, absurdas o ilógicas manteniendo un tono periodístico, inexpresivo y una seriedad clínica. Su estilo se basa en generar una incomodidad calculada y romper constantemente las expectativas lógicas.
 * **Storytelling (Narrativa):** *Bombo Fica* y *Edo Caroe*. Bombo Fica es el rey clásico de la anécdota larga, con un dominio absoluto de la pausa, la paciencia y la exageración de situaciones cotidianas. Caroe, por su parte, es excelente para observar cómo se construye una narrativa extensa basada en la autocrítica, la vulnerabilidad personal y giros inesperados.
 * **Improvisación:** El elenco histórico de *Los Improvisadores* (Vía X) o las interacciones rápidas en podcasts de comedia conversacional (como *El Sentido del Humor*). Son clases magistrales de agilidad mental, escucha activa y de la técnica del "Sí, y...", aceptando premisas absurdas del compañero y escalándolas en el momento.
+
+---
+
+## Anexo C: Cuándo No Hacer Humor
+
+Hay situaciones donde la mejor decisión no es calibrar el humor, sino renunciar a él. El humor, por bien intencionado que sea, puede ser percibido como una falta de comprensión del contexto o como una señal de insensibilidad si se usa en el momento equivocado.
+
+En los siguientes contextos, lo más prudente suele ser no hacer humor o limitarlo al mínimo:
+
+ * **Duelo o pérdida reciente:** Si la persona afectada no ha abierto ese espacio, evita introducir humor. Si el propio afectado utiliza el humor como forma de afrontar la situación, puedes acompañarlo, pero no liderarlo.
+ * **Crisis institucional activa:** Despidos masivos, accidentes, escándalos públicos o situaciones de alto impacto emocional colectivo. Cualquier comentario ingenioso en ese momento se leerá como frivolidad.
+ * **Primera interacción formal con desconocidos:** Antes de que exista un mínimo de confianza, evita el humor que dependa del sarcasmo, la ironía o referencias compartidas. Si decides usar humor, que sea breve, amable y preferentemente dirigido hacia ti mismo (autocrítica ligera).
+ * **Cuando alguien acaba de expresar vulnerabilidad:** Si alguien acaba de compartir algo difícil, un comentario cómico inmediato puede transmitir que no escuchaste con atención o que intentas cerrar la conversación demasiado pronto.
+ * **Antes de comprender la situación:** Si llevas pocos minutos conversando y todavía no entiendes qué preocupa realmente a la otra persona, prioriza hacer preguntas antes que intentar ser ingenioso. Es difícil construir conexión con alguien cuya situación todavía no comprendes.
+
+**La señal de alerta:**
+
+Si tu primer impulso es aligerar una situación porque el silencio te incomoda, detente un momento y pregúntate:
+> *¿Estoy intentando ayudar a la otra persona o aliviar mi propia incomodidad?*
+> 
+Muchas veces el humor intenta aliviar nuestra propia incomodidad, no la de la otra persona. Aprender a distinguir ambas cosas es una de las habilidades más importantes de la inteligencia social.
