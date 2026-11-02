@@ -68,7 +68,7 @@ Ensayos, guías y notas sobre comunicación, metodología, inteligencia artifici
 
 * [Guía de Humor Profesional y Personal](/guia-humor)
 
-* [](/transformacion-eee)
+* [La estructura de decisiones y los límites de la transformación productiva en Chile](/transformacion-productiva)
 
 ---
 
