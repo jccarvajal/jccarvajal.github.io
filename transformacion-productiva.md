@@ -218,3 +218,34 @@ Queda entonces una pregunta que conecta la estructura de decisiones con el probl
 En definitiva, la transformación productiva no depende solamente de cuánto capital se moviliza, sino también de quiénes participan en las decisiones, qué riesgos están dispuestos a asumir y qué actividades consideran posibles de desarrollar.
 
 Podemos terminar invirtiendo más para seguir haciendo esencialmente lo mismo.
+
+---
+
+## Fuentes y referencias
+
+### Gobierno corporativo
+
+* Enrione, A. y Pavlic, F. (2024). Composición de los directorios IGPA 2024: Un análisis tras las juntas ordinarias de accionistas. ESE Business School, Centro de Gobierno Corporativo y Sociedad. [Documento PDF](https://ese.cl/ese/site/artic/20241217/asocfile/20241217165542/composici__n_de_los_directorios_igpa_2024___un_an__lisis_tras_las_juntas_ordinarias_de_accionistas.pdf).
+* Comisión para el Mercado Financiero (2021). Norma de Carácter General N.º 461. [Texto oficial](https://www.cmfchile.cl/normativa/ncg_461_2021.pdf).
+
+### Marco conceptual
+
+* March, J. G. (1991). Exploration and Exploitation in Organizational Learning. Organization Science, 2(1), 71–87. https://doi.org/10.1287/orsc.2.1.71.
+* O’Reilly, C. A. y Tushman, M. L. (2004). The Ambidextrous Organization. Harvard Business Review, 82(4). [Artículo](https://hbr.org/2004/04/the-ambidextrous-organization).
+
+### Inversión en investigación y desarrollo
+
+* Instituto Nacional de Estadísticas (INE). Encuesta sobre Gasto y Personal en Investigación y Desarrollo. Datos preliminares de 2024. [Estadísticas de I+D](https://www.ine.gob.cl/estadisticas-por-tema/ciencia-y-tecnologia/encuesta-sobre-gasto-y-personal-en-investigacion-y-desarrollo).
+* Ministerio de Ciencia y TIC de Corea del Sur (26 de diciembre de 2025). 2024년도 연구개발활동조사 결과 [Resultados de la Encuesta de Actividades de Investigación y Desarrollo 2024]. [Copia del comunicado](https://research.uos.ac.kr/node/8308).
+
+### Experiencias internacionales
+
+* République Française (2011). Loi n.º 2011-103 du 27 janvier 2011 relative à la représentation équilibrée des femmes et des hommes au sein des conseils d’administration et de surveillance et à l’égalité professionnelle. [Texto legal](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023487662/).
+* Korea Advanced Institute of Science and Technology (KAIST). Historia institucional. [Página de historia](https://www.kaist.ac.kr/site/historyen/).
+* Korea Institute of Science and Technology (KIST). History. [Reseña institucional](https://www.kist.re.kr/_attach/kist/file/2025/07/fPCOJNfEoxYfMvvedUeEdUxxYj.pdf).
+* Empresa Brasileira de Pesquisa e Inovação Industrial (EMBRAPII). Manual de Operações. [Documentación institucional](https://embrapii.org.br/manuais-e-orientacoes/).
+* New Zealand Growth Capital Partners. Elevate NZ Venture Fund. [Descripción del fondo](https://www.nzgcp.co.nz/funding/elevate-venture-fund).
+
+### Contexto empresarial chileno
+
+* Emol (28 de octubre de 2026). Lo que dejó Enade 2026. [Artículo](https://www.emol.com/noticias/Economia/2026/10/28/1215465/enade-2026-lo-que-dejo.html).
