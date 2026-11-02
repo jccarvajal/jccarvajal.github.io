@@ -19,6 +19,8 @@ Esta hipótesis también plantea una cuestión más amplia: la transformación p
 
 La pregunta, por tanto, no es solamente cuánto invierte Chile en innovación o qué instrumentos públicos utiliza para promover nuevas industrias. También importa quiénes participan en las decisiones sobre esa inversión, qué experiencias incorporan y qué oportunidades son capaces de reconocer.
 
+---
+
 ## 2. Arquitectura de decisiones: propiedad, experiencia y ambidestreza
 
 La estructura de decisiones empresariales comprende distintos niveles. La propiedad establece los derechos de control y define, en buena medida, los incentivos de los accionistas. Los directorios supervisan la gestión, participan en la definición estratégica y evalúan decisiones relevantes para el futuro de la organización. Los equipos ejecutivos, por su parte, traducen esas orientaciones en operaciones, inversiones y capacidades concretas.
@@ -59,6 +61,8 @@ Esta dinámica no implica necesariamente que las empresas estén tomando decisio
 
 La composición profesional y la experiencia de los órganos de decisión inciden en este equilibrio. Distintas trayectorias permiten reconocer problemas, tecnologías y oportunidades desde perspectivas diferentes. El punto no es atribuir una capacidad innovadora intrínseca a determinadas profesiones, sino considerar qué conocimientos y experiencias están disponibles cuando una empresa evalúa cambiar de actividad, desarrollar una tecnología o ingresar a un mercado nuevo.
 
+---
+
 ## 3. Composición profesional de los espacios de decisión
 
 La composición profesional de los directorios constituye una dimensión concreta desde la cual examinar la estructura de decisiones empresariales en Chile.
@@ -77,6 +81,8 @@ Por ello, el análisis no debería limitarse a contar títulos profesionales. Ta
 
 La hipótesis es que una composición relativamente homogénea de formaciones y experiencias puede reducir la diversidad de perspectivas disponibles en los espacios de decisión. La concentración profesional es observable; sus efectos sobre la orientación de las decisiones deben examinarse a partir de los criterios utilizados, las inversiones aprobadas y las oportunidades que las empresas deciden desarrollar o descartar.
 
+---
+
 ## 4. Complejidad creciente del entorno empresarial: riesgos y capacidades
 
 El entorno en que operan las empresas ha adquirido una complejidad que excede los ámbitos tradicionales de gestión financiera, comercial y operacional. La digitalización, la inteligencia artificial, la ciberseguridad, el cambio climático y las transformaciones geopolíticas están modificando las condiciones bajo las cuales se desarrollan las actividades productivas.
@@ -88,6 +94,8 @@ Esta complejidad plantea una exigencia para los espacios de decisión: comprende
 La dificultad no está solamente en acceder a especialistas. También está en integrar sus conocimientos en las decisiones estratégicas. Una organización puede disponer de capacidades técnicas avanzadas y, aun así, no traducirlas en nuevas inversiones o modelos de negocio si esas capacidades no participan de la evaluación de sus prioridades.
 
 La diversidad de experiencias adquiere así una dimensión estratégica. Puede ampliar la capacidad de una empresa para reconocer cambios relevantes, anticipar riesgos y evaluar respuestas distintas de las que han guiado su trayectoria. En un entorno donde las tecnologías y los mercados cambian con rapidez, limitar el conocimiento que llega a los espacios de decisión puede significar limitar también las oportunidades que la organización considera viables.
+
+---
 
 ## 5. Estructura de decisiones en Chile: propiedad, directorios y entorno institucional
 
@@ -137,6 +145,8 @@ La cuestión no es si el empresariado debe invertir más, sino en qué actividad
 
 En este sentido, la responsabilidad por la transformación productiva no puede concebirse como una tarea que el Estado termina y luego entrega al sector privado. Ambos tienen funciones diferentes, pero complementarias. El Estado debe contribuir a crear capacidades y condiciones para explorar; las empresas deben desarrollar la capacidad de reconocer, financiar y sostener nuevas actividades. Ninguna de esas responsabilidades desaparece porque la otra avance.
 
+---
+
 ## 6. Asignación de recursos: I+D, CVC y ScaleX
 
 La asignación de recursos constituye una expresión concreta de las prioridades estratégicas de una economía. La inversión en investigación y desarrollo, el financiamiento de emprendimientos tecnológicos y la participación de empresas establecidas en nuevos negocios permiten observar hasta qué punto existe disposición a explorar actividades distintas de las tradicionales.
@@ -161,6 +171,8 @@ Estos instrumentos contribuyen a resolver restricciones de financiamiento, pero 
 
 La cuestión central es que la disponibilidad de recursos financieros constituye una condición necesaria, pero no suficiente. También importa cómo se evalúan las oportunidades, qué nivel de incertidumbre se está dispuesto a aceptar y qué capacidades existen para transformarse en una actividad económica sostenible.
 
+---
+
 ## 7. Experiencias internacionales: distintas estructuras para enfrentar la transformación productiva
 
 La comparación internacional permite observar que no existe un único modelo de organización empresarial ni una fórmula universal para promover la innovación. Las economías seleccionadas presentan diferencias en sus estructuras de propiedad, sistemas de financiamiento, relaciones entre empresas y Estado, y mecanismos de desarrollo tecnológico. Su interés está en los distintos mecanismos que permiten ampliar la capacidad de explorar nuevas actividades.
@@ -180,6 +192,8 @@ Nueva Zelanda ha buscado fortalecer su ecosistema de capital de riesgo y financi
 Estas experiencias no son directamente transferibles a Chile. Las diferencias de escala, estructura productiva, capacidades institucionales y profundidad de los mercados financieros impiden establecer equivalencias simples. Su utilidad está en mostrar que la transformación productiva requiere combinar inversión, capacidades tecnológicas, mecanismos de financiamiento, articulación institucional y estructuras empresariales capaces de evaluar oportunidades que se apartan de las actividades tradicionales.
 
 La comparación también permite advertir que no basta con importar instrumentos. Un fondo de capital de riesgo, una política de investigación o un mecanismo de financiamiento público pueden existir formalmente sin generar los mismos resultados que en otras economías. Su efectividad depende de las capacidades y decisiones de los actores que participan en ellos. En otras palabras, los instrumentos crean oportunidades, pero las estructuras institucionales y empresariales determinan en buena medida cómo se aprovechan.
+
+---
 
 ## 8. Conclusiones
 
