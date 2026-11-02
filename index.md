@@ -68,6 +68,8 @@ Ensayos, guías y notas sobre comunicación, metodología, inteligencia artifici
 
 * [Guía de Humor Profesional y Personal](/guia-humor)
 
+* [](/transformacion-eee)
+
 ---
 
 ### Contacto
