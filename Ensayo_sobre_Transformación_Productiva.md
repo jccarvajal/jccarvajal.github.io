@@ -1,3 +1,8 @@
+---
+layout: default
+title: La estructura de decisiones y los límites de la transformación productiva en Chile
+---
+
 # La estructura de decisiones y los límites de la transformación productiva en Chile
 
 ## 1. Introducción: quién decide y qué tipo de empresas se desarrollan
