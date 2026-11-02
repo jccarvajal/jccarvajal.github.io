@@ -5,6 +5,8 @@ title: La estructura de decisiones y los límites de la transformación producti
 
 # La estructura de decisiones y los límites de la transformación productiva en Chile
 
+La transformación productiva no depende únicamente de la inversión, la innovación o las condiciones regulatorias. También está condicionada por quiénes toman las decisiones empresariales, qué experiencias y perspectivas incorporan y qué riesgos están dispuestos a asumir. Este ensayo examina cómo la estructura de propiedad, la composición de los directorios y los mecanismos de asignación de recursos pueden influir en la capacidad de las empresas chilenas para explorar nuevas actividades y contribuir a una economía más diversificada.
+
 ## 1. Introducción: quién decide y qué tipo de empresas se desarrollan
 
 La discusión sobre la transformación productiva de Chile suele concentrarse en variables como la inversión, la productividad, la innovación, el capital humano, la regulación y las políticas públicas. Todas son relevantes, pero existe otra dimensión que recibe menos atención: la estructura desde la cual se toman las decisiones empresariales.
